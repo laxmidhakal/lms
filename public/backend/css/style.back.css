@@ -1,0 +1,37 @@
+/*table*/
+.back-img{
+	/*width: 60px;*/
+    height: 30px;
+    object-fit: contain;
+    object-position: center center;
+}
+
+/*pagination*/
+.pagination{
+  margin: 0
+}
+.editback-img{
+	/*width: 60px;*/
+    height: 38px;
+    object-fit: contain;
+    object-position: center center;
+}
+.editback-gallery-img{
+	width: 175px;
+    height: 140px;
+    object-fit: cover;
+    object-position: center center;
+}
+
+.cross-css{
+    font-size:18px;
+    color: red;
+}
+
+.check-css{
+    font-size:18px;
+    color: #17bd0c;
+}
+ 
+
+
